@@ -2,7 +2,7 @@
 
 I've decided to post the code from my final year project here. 
 It was written after I'd had a few classes on VHDL programming.
-I'd done nothing on actual digital microprocessor design and had no idea about Timing Analysis or verification
+I'd done nothing on actual digital microprocessor design and had no idea about Timing Analysis or verification.
 I wrote code and uploaded it onto an FPGA where I tested it manually.
 Covid affected my work. I couldn't access my HOD for guidance
 I ran into timining analysis for the fist time when I was trying to put everything together and just ended up maxxing the slack to allow it to run
